@@ -1,6 +1,20 @@
-title: Shraddha Jaiswal
+theme: jekyll-theme-minimal
+
+title: <p align="center"> Shraddha Jaiswal </p>
 logo: /assets/img/1621921278934 2.jpg
-description: Minimal is a theme for GitHub Pages.
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="NA">LinkedIn</a> |
+  <a href="https://github.com/ShraddhaJazz">GitHub</a>
+  
+  <br>   
+  Work Details to be updated
+  <br>
+  </p>
+
 show_downloads: true
 google_analytics:
+
 theme: jekyll-theme-minimal
