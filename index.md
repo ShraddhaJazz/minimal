@@ -13,6 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Project 1
 
 Fraud Deduction 
+    Detect and block complex fraud
+    Streamline account opening and onboarding
+    Reduce unnecessary customer friction and accelerate positive authentication
+    Defend against emerging fraud threats through effective fraud identity management
+    Optimize ongoing account servicing
+    Minimize fraud losses and avoid reputational risk
 
 ## Project 2
 
